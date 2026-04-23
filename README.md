@@ -277,4 +277,6 @@ Developed by akshima cahndel
 
 SCREENSHOTS 
 ![BACKEND](https://github.com/ArnavMishra786/fullstack/blob/c1f2d81dbdbddb913ae2ee269ff2afc2cc452829/frontend/SS/Screenshot%202026-04-17%20145102.png)
-![CHAT1]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc5adccf-17f9-42e5-83b2-b0d1208160b3" />
+![CHAT1](https://github.com/ArnavMishra786/fullstack/blob/c1f2d81dbdbddb913ae2ee269ff2afc2cc452829/frontend/SS/Screenshot%202026-04-17%20150800.png)
+![CHAT2](https://github.com/ArnavMishra786/fullstack/blob/c1f2d81dbdbddb913ae2ee269ff2afc2cc452829/frontend/SS/Screenshot%202026-04-17%20150805.png)
+
