@@ -273,7 +273,7 @@ window.Buffer = Buffer
 
 👨‍💻 Author
 
-Developed by Arnav Mishra
+Developed by akshima cahndel
 
 SCREENSHOTS 
 ![BACKEND](https://github.com/ArnavMishra786/fullstack/blob/c1f2d81dbdbddb913ae2ee269ff2afc2cc452829/frontend/SS/Screenshot%202026-04-17%20145102.png)
