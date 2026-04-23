@@ -133,8 +133,7 @@ import { Buffer } from "buffer"
 window.Buffer = Buffer
 
 👨‍💻 Author
-
-Developed by Arnav Mishra
+akshima chandel
 
 SCREENSHOTS 
 ![BACKEND](https://github.com/ArnavMishra786/fullstack/blob/c1f2d81dbdbddb913ae2ee269ff2afc2cc452829/frontend/SS/Screenshot%202026-04-17%20145102.png)
